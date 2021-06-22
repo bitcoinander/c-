@@ -5,14 +5,14 @@ using namespace std;
 int main()
 {
  float n1, n2,n3,n4, media=0;
- char operacao;
+ char notas;
 
 cout <<"CALCULANDO MÉDIA EM C++" << endl;
 cout <<"DIGITE [M]PARA CONTINUAR:_";
-cin >> operacao;
+cin >> notas;
 cout << endl;
 
-switch (operacao)
+switch (notas)
 {
     case 'm':   
  cout << endl <<"Digite a primeira nota:";
