@@ -1,4 +1,5 @@
 # média
+Calculando média em C++ 
 
 ```C++
 #include <iostream>
